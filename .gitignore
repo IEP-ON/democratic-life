@@ -1,0 +1,43 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# 개발 과정 파일 (배포 제외)
+텍스트화_자료(민주적인삶)/
+양식참고/
+민주적인_삶_II_교육과정_최종.txt
+민주적인삶2_수업개발_프롬프트.md
+00_문서_상호호환성_검토보고서.md
+01_자료-수업_맵핑_테이블.md
+02_사고루틴_선정_및_수업설계.md
+검증보고서_지도안_학습지.md
+
+# Node modules (if any)
+node_modules/
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
